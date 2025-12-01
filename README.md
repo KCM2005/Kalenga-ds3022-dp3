@@ -1,4 +1,4 @@
-# Github Activity
+# Github Activity Analysis
 
 ## Team members
 Kalenga Mumba
