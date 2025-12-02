@@ -28,4 +28,4 @@ The bar plot displaying the top 10 repositories by the number of PushEvents from
 
 ## GitHub Repository
 
-https://github.com/
+[https://github.com/](https://github.com/KCM2005/Kalenga-ds3022-dp3/tree/main)
