@@ -14,7 +14,7 @@ I worked with the GitHub Archive API that contains a complete record of public G
 
 What challenges did this data choice present in data gathering, processing and analysis, and how did you work through them? What methods and tools did you use to work with this data?
 
-Working with this dataset presented several challenges. First, the data is extensive, covering every hour of a month, which makes downloading, storing, and processing resource-intensive. Second, the JSON files sometimes contain distorted lines, requiring careful error handling during parsing. To address these challenges, I converted the original JSON files to Parquet files, enabling efficient storage and retrieval of data in a compressed columnar format. This approach allowed for faster processing and reduced memory usage. Filtering by specific dates and event types was essential to focus the analysis and manage the large dataset effectively, and I used visualization tools to summarize and display the results.
+Working with this dataset presented several challenges. First, the data is extremely large, covering every hour of day within January, which makes downloading, storing, and processing resource-intensive and time-consuming. Second, the JSON files sometimes contain distorted lines, requiring careful error handling during parsing. To address these challenges, I converted the original JSON files to Parquet files, enabling efficient storage and retrieval of data in a compressed columnar format. This approach allowed for faster processing and reduced memory usage. Filtering by specific dates and event types was essential to focus the analysis and manage the large dataset effectively, and I used visualization tools to summarize and display the results.
 
 ## Analysis
 
