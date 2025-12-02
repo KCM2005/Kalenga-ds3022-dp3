@@ -22,7 +22,7 @@ Offer a brief analysis of the data with your findings. Keep it to one brief, cle
 
 ## Plot / Visualization
 
-![Alt text](visualizations/PushEvents_repo_usage)
+![Alt text](visualizations/Push_Events_repo_usage)
 ![Alt text](visualizations/average_events.png)
 
 ## GitHub Repository
