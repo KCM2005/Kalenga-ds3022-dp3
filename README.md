@@ -22,7 +22,7 @@ Offer a brief analysis of the data with your findings. Keep it to one brief, cle
 
 ## Plot / Visualization
 
-![Alt text](average_events.png)
+![Alt text](pictures/average_events.png)
 
 ## GitHub Repository
 
